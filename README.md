@@ -85,11 +85,6 @@ We'd like to see your implementation using the following technologies:
 
 It is preferred that you use
 * Highcharts
-
-## How to submit the challenge solution? 
-After you finished your app, please follow the instructions below:
-
-1. Create or use an existing account on `https://codesandbox.io` so you can save and share your work
 2. Create a sandbox
 3. Email including
 - time spent
